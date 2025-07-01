@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Game+Dev+in+Progress...;C%23%2C+HTML%2C+CSS%2C+JS%2C+React;Lover+of+Clean+Code+%26+Pixel+Art](https://camo.githubusercontent.com/d6c684e272dfca89e599b25fdee03d847881c72f52af372ef6d577a958a8814e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572)" alt="Typing SVG" />
-</p>
-
 
 
 <h1 align="center">👋 Hello World, I'm Vinicius</h1>
